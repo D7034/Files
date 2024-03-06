@@ -48,4 +48,7 @@ Looking for a place to start? Check out the [task board](https://github.com/orgs
 
 ## Screenshots
 
+![Screenshot_20240306-043730](https://github.com/files-community/Files/assets/162427143/f343051b-15f4-4842-848c-570076e24e8e)
+
+
 ![Files](../assets/FilesScreenshot.png)
